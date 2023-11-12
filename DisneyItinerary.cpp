@@ -6,6 +6,10 @@
 #include <cctype>
 using namespace std;
 
+// Author: Corah Price
+// Created 11/12/2023
+// I designed this project to produce a randomized itinerary for the user at a Disney Park of their choice.
+
 // Random shuffle function using rand()
 template <typename RandomIt>
 void customShuffle(RandomIt first, RandomIt last) {
